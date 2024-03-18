@@ -1,0 +1,2 @@
+# pascal
+tugas pemrograman pascal
